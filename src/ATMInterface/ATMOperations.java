@@ -2,7 +2,7 @@ package ATMInterface;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//providing the functions for ATM operations
 public class ATMOperations implements ATMOperationInterface {
 
 	ATM atm = new ATM();
